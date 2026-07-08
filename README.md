@@ -95,8 +95,5 @@ docs/
 
 ## 👨‍💻 Author
 
-Steve Noel
-
-Sri Lanka
-
+Steve 
 Backend & Full Stack Developer
