@@ -97,4 +97,4 @@ docs/
 
 Steve 
 
-Backend & Full Stack Developer
+Backend developer 
