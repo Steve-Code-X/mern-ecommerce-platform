@@ -346,12 +346,15 @@ The project will be considered successful when:
 - Product Recommendation Engine
 - Business Analytics Dashboard
 
----
-
-## Document History
-
-| Version | Date | Author | Description |
-|---------|------|--------|-------------|
-| 1.0 | July 2026 | Steve | Initial Project Overview |
 
 ---
+## 16. Version Information
+
+| Item | Value |
+|------|-------|
+| Project | MERN E-Commerce Platform |
+| Version | 1.0.0 |
+| Document Version | 1.0 |
+| Status | Planning |
+| Author | Steve |
+| Last Updated | July 2026 |
